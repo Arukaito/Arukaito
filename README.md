@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 ```math
-\ce{$\unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://github.com/Arukaito/Arukaito/blob/main/assets/f5e956f69e888392812e8ddcf4a5ef10dc03bad7.mp4');]{x0000}$}
+\ce{$\unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0; background: url('https://github.com/Arukaito/Arukaito/blob/main/nekopara-chocola.gif');]{x0000}$}
 ```
