@@ -23,4 +23,3 @@ $\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: f
 $\unicode[goombafont; color:black; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 50vw; width: 112vh; height: 100vh; opacity: 0.4; background-color: black; transform: translateX(-50%);
 ]{x0001}$
 }
-}
